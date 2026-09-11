@@ -1,0 +1,6 @@
+This repository contains multiple components with different licenses:
+
+- Firmware/ — GPL-3.0 + Commons Clause (see LICENSE-FIRMWARE)
+- Hardware/ — CC BY-NC-SA 4.0 (see LICENSE-HARDWARE)
+- Apps/ — MIT (see LICENSE-APPS)
+- Firmware/BLE_PROTOCOL.md — CC0 1.0 Universal (public domain)

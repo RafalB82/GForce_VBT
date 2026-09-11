@@ -1,0 +1,11 @@
+GNU General Public License v3.0 + Commons Clause
+
+The firmware in this repository is licensed under the GNU General Public License
+v3.0, with the additional Commons Clause restriction on commercial sale.
+
+In plain language:
+- You may use, modify, and share the firmware for non-commercial purposes.
+- You may not sell devices built using this firmware (whether modified or not)
+  without explicit permission from the author.
+- See the full GPL-3.0 at https://www.gnu.org/licenses/gpl-3.0.txt
+- Commons Clause: https://commonsclause.com/

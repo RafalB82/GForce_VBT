@@ -1,0 +1,14 @@
+{
+  "name": "GForce VBT Kapsel",
+  "releases": [
+    {
+      "version": "0.5.0",
+      "tag": "v0.5.0",
+      "type": "dev",
+      "file": "trikig_triki_v0.5.0_rtt.hex",
+      "sha256": "30cdbe6046ae68e0e586701a1a7593c226354390002fd747c43d717b04dfa68d",
+      "date": "2026-09-04",
+      "features": ["training mode 20 18", "SLEEP_DUR 6s", "IDLE-CONNECTED", "VBT gravity tracking"]
+    }
+  ]
+}
